@@ -1,8 +1,9 @@
 # GS-Java
 Repositório criado para armazenar todos os arquivos e assuntos, sobre a globalsolution de JavaAdvanced.
 
-## Link Youtube
-Link: https://www.youtube.com/watch?v=0BJVr_2wL0g
+## Links Youtube
+Link Demonstração: https://www.youtube.com/watch?v=0BJVr_2wL0g
+Link PITCH: https://www.youtube.com/watch?v=SgGtQQRxg_8
 
 ## Instruções para acessos e testes | Eventos
 Para fazer os testes no POSTMAN, siga essas etapas:
